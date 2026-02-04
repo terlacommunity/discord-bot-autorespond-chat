@@ -2,7 +2,7 @@
 
 Bot Discord sederhana untuk membalas chat otomatis berdasarkan keyword (contoh: `kenapa dibanned`, `cara unban`).
 
-Project ini ditulis untuk pemula yang belum pernah membuat bot Discord sama sekali.
+Project ini ditulis untuk pemula yang belum pernah membuat bot Discord sama sekali dan dirunning secara local
 
 ## Fungsi Bot
 - Membaca pesan baru di channel server Discord.
