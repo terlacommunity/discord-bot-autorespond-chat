@@ -136,4 +136,4 @@ Contoh:
 - Tetap pastikan kamu tidak pernah membagikan isi `.env`.
 
 ## Credits
-Creator: **Ardi | SpawnEra.com** untuk belajar basic member **Terla** dan special untuk **Oziw**.
+Creator: **Ardi | [SpawnEra.com](https://SpawnEra.com)** untuk belajar basic member **[Terla.id](https://Terla.id)** dan special untuk **Oziw**.
